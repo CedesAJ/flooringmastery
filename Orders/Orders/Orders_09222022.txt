@@ -1,0 +1,10 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+7,Greg Q,MI,6,Concrete,70.00,8.25,10.00,577.50,700.00,76.65,1354.15
+8,Larry,TN,7,Wood,70,7.25,10.00,507.50,700.00,84.53,1292.03
+9,Robby,MS,7,Concrete,90.00,8.25,10.00,742.50,900.00,114.98,1757.48
+10,Phillip,NC,4.75,Wood,90,7.25,10.00,652.50,900.00,73.74,1626.24
+11,Mary,LA,4.45,Wood,90,7.25,10.00,652.50,900.00,69.09,1621.59
+12,Michael,CA,7.25,Wood,50,7.25,10.00,362.50,500.00,62.53,925.03
+13,Terry Jackson,LA,4.45,Tile,60,5.00,5.00,300.0000,300.00,26.70,626.7000
+15,John Glass,LA,4.45,Tile,100,5.00,5.00,500.0000,500.00,44.50,1044.5000
+16,Angelica Robinson,LA,4.45,Tile,60,5.00,5.00,300.0000,300.00,26.70,626.7000

@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+3,Terry Jackson,LA,4.45,Tile,60,5.00,5.00,300.0000,300.00,26.70,626.7000
+5,John Glass,LA,4.45,Tile,100,5.00,5.00,500.0000,500.00,44.50,1044.5000
+
